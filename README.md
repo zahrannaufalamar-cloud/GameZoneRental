@@ -1,8 +1,8 @@
-# 🎮 Rental GameZone
+# 🎮 GameZoneRental
 
 ## 📌 Deskripsi Proyek
 
-**Rental GameZone** adalah aplikasi berbasis Java Console yang dibuat untuk membantu petugas rental PlayStation dalam menghitung biaya penyewaan dan menampilkan rincian pembayaran pelanggan. Aplikasi ini dikembangkan menggunakan bahasa pemrograman Java melalui IDE NetBeans sebagai latihan praktikum Pemrograman Java Dasar.
+**GameZone Rental** adalah aplikasi berbasis Java Console yang dibuat untuk membantu petugas rental PlayStation dalam menghitung biaya penyewaan dan menampilkan rincian pembayaran pelanggan. Aplikasi ini dikembangkan menggunakan bahasa pemrograman Java melalui IDE NetBeans sebagai latihan praktikum Pemrograman Java Dasar.
 
 Aplikasi ini menyediakan dua pilihan konsol, yaitu PlayStation 4 (PS4) dan PlayStation 5 (PS5), dengan tarif sewa yang berbeda. Program juga dilengkapi dengan fitur diskon, tambahan minuman, serta struk pembayaran secara otomatis.
 
@@ -52,7 +52,7 @@ Tambahkan screenshot hasil eksekusi aplikasi pada bagian ini agar tampilan progr
 Contoh format untuk menampilkan screenshot:
 
 ```markdown
-![Tampilan Aplikasi Rental GameZone](screenshoot/output.jpg)
+![Tampilan Aplikasi Rental GameZone](Screenshoot/output.jpg)
 ```
 
 Pastikan gambar screenshot disimpan di folder `screenshoot` dengan nama `output.jpg`.
