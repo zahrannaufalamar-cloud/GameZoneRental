@@ -47,12 +47,9 @@ Aplikasi ini menyediakan dua pilihan konsol, yaitu PlayStation 4 (PS4) dan PlayS
 
 ## 📷 Screenshot Aplikasi
 
-Tambahkan screenshot hasil eksekusi aplikasi pada bagian ini agar tampilan program dapat dilihat langsung melalui README GitHub.
 
-Contoh format untuk menampilkan screenshot:
 
-```markdown
-![Tampilan Aplikasi Rental GameZone](GameZoneRental/Screenshoot/output.jpg)
+<img width="1275" height="1650" alt="output" src="https://github.com/user-attachments/assets/249a508a-714a-421c-9309-9dbd8262fdb0" />
 ```
 
 Pastikan gambar screenshot disimpan di folder `screenshoot` dengan nama `output.jpg`.
