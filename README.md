@@ -52,7 +52,7 @@ Tambahkan screenshot hasil eksekusi aplikasi pada bagian ini agar tampilan progr
 Contoh format untuk menampilkan screenshot:
 
 ```markdown
-![Tampilan Aplikasi Rental GameZone](Screenshoot/output.jpg)
+![Tampilan Aplikasi Rental GameZone](GameZoneRental/Screenshoot/output.jpg)
 ```
 
 Pastikan gambar screenshot disimpan di folder `screenshoot` dengan nama `output.jpg`.
