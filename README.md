@@ -47,7 +47,7 @@ Aplikasi ini menyediakan dua pilihan konsol, yaitu PlayStation 4 (PS4) dan PlayS
 
 ## 📷 Screenshot Aplikasi
 
-![Tampilan Aplikasi GameZoneRental](GameZoneRentalScreenshoot/output.jpg)
+![Tampilan Aplikasi GameZoneRental](GameZoneRental/Screenshoot/output.jpg)
 
 
 Pastikan gambar screenshot disimpan di folder `screenshots` dengan nama `output.png`.
